@@ -71,16 +71,6 @@
 
 ---
 
-## 🌲 SKILL TREE / MENU RETRÁTIL
-
-<samp>
-<details open>
-<summary><b>🛠️ [ EXPAND_SYSTEM_MENU ]</b></summary>
-<br>
-
-</details>
-</samp>
-
 ---
 
 ## 📟 01. INITIATING_DAB_PROTOCOLS...
@@ -102,6 +92,8 @@
 
 ---
 
+---
+
 ## 📡 02. CORE ARMAMENTÁRIO & STATS
 
 <div align="left">
@@ -116,6 +108,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dabblew&show_icons=true&theme=tokyonight&color_title=ff6b00&color_text=ff6b00&color_icon=ff6b00&bg_color=000000&hide_border=false" alt="DabbleW GitHub Stats">
 </div>
+
+---
 
 ---
 
@@ -169,3 +163,14 @@ O GitHub força as bordas das tabelas para cinza escuro no tema Dark, o que mant
 ## 📡 05. TERMINAL DE CONEXÃO (CTA)
 
 <div align="center">
+
+<a href="https://github.com/dabblew">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff6b00" alt="GitHub">
+</a>&nbsp;&nbsp;
+<a href="https://instagram.com/dabbl.io">
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ff6b00" alt="Instagram">
+</a>
+
+<br><br>
+<sub>`Copyright dabblew © 2026 — Inc. All rights reserved.`</sub>
+</div>
