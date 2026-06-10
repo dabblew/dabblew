@@ -64,9 +64,6 @@
 </samp>
 </div>
 
-<!-- LINKS DE NAVEGAÇÃO RÁPIDA (CTA) -->
-[`[VIEW_TOOLKIT]`](#-03-artefatos-e-projetos-grid) &nbsp;&nbsp;|&nbsp;&nbsp; [`[REQUEST_AUDIT]`](https://instagram.com/dabbl.io) &nbsp;&nbsp;|&nbsp;&nbsp; [`[CONTACT_UPLINK]`](#-05-terminal-de-conexão-cta)
-
 </div>
 
 ---
