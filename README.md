@@ -2,16 +2,20 @@
 
 <!-- SECTION 01: HERO BANNER (BORDAS SIMULADAS POR ARQUIVO DE IMAGEM ESTÁTICA COM DITHERING) -->
 <img src="https://raw.githubusercontent.com/dabblew/dabblew/main/1000068799_2.webp" width="400" alt="Dab Cybersec Mascot">
+<br>
 
+---
+
+<div align="left">
 <samp>
 
 <details>
-  <summary><b>▶ [ MENU_SITEMAP ]</b></summary>
+  <summary><b>[ MENU ]</b></summary>
   <br>
   
   <!-- NÍVEL 1: SOBRE MIM -->
   <details style="margin-left: 20px;">
-    <summary>📂 01. Sobre Mim</summary>
+    <summary>[1] Sobre Mim</summary>
     <p style="margin-left: 20px;">
       <sub>→ <a href="#-01-initiating_dab_protocols">Ir para Diretório /Operative_Profile</a></sub>
     </p>
@@ -19,7 +23,7 @@
 
   <!-- NÍVEL 1: PROJETOS -->
   <details style="margin-left: 20px;">
-    <summary>📂 02. Projetos (Hardware & Assessment)</summary>
+    <summary>[2] Projetos (Hardware & Assessment)</summary>
     <ul style="list-style-type: none; margin-left: 20px; padding-left: 0;">
       <li><code>>_</code> <a href="https://github.com/dabblew/Jammer-ESP32">Jammer with ESP32</a></li>
       <li><code>>_</code> <a href="https://github.com/dabblew/BadUSB-Scripts">BadUSB</a></li>
@@ -30,7 +34,7 @@
 
   <!-- NÍVEL 1: FERRAMENTAS -->
   <details style="margin-left: 20px;">
-    <summary>📂 03. Ferramentas (Exploration & Recon)</summary>
+    <summary>[03] Ferramentas (Exploration & Recon)</summary>
     <ul style="list-style-type: none; margin-left: 20px; padding-left: 0;">
       <li><code>>_</code> <a href="https://github.com/dabblew/LPE-Portable">LPE Portable</a></li>
       <li><code>>_</code> <a href="https://github.com/dabblew/Wifite-Automation">Wifite Suite</a></li>
@@ -58,7 +62,7 @@
 </details>
 
 </samp>
-
+</div>
 
 <!-- LINKS DE NAVEGAÇÃO RÁPIDA (CTA) -->
 [`[VIEW_TOOLKIT]`](#-03-artefatos-e-projetos-grid) &nbsp;&nbsp;|&nbsp;&nbsp; [`[REQUEST_AUDIT]`](https://instagram.com/dabbl.io) &nbsp;&nbsp;|&nbsp;&nbsp; [`[CONTACT_UPLINK]`](#-05-terminal-de-conexão-cta)
