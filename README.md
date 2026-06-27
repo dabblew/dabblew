@@ -1,6 +1,5 @@
 <div align="center">
   
----
 <table><tr>
 <!-- MENU -->
 <td>
@@ -13,7 +12,7 @@
   
   <!-- NÍVEL 1: SOBRE MIM -->
   <details style="margin-left: 20px;">
-    <summary>[1] Sobre Mim</summary>
+    <summary>[1] <b>The_Journey_</b>(Sobre Mim)</summary>
     <p style="margin-left: 20px;">
       <sub>→ <a href="#-01-initiating_dab_protocols">Ir para Diretório /Operative_Profile</a></sub>
     </p>
@@ -21,7 +20,7 @@
 
   <!-- NÍVEL 1: PROJETOS -->
   <details style="margin-left: 20px;">
-    <summary>[2] Projetos (Hardware & Assessment)</summary>
+    <summary>[2] <b>Active_Lab_</b>(Projetos em Desenvolvimento)</summary>
     <ul style="list-style-type: none; margin-left: 20px; padding-left: 0;">
       <li><code>>_</code> <a href="https://github.com/dabblew/Jammer-ESP32">Jammer with ESP32</a></li>
       <li><code>>_</code> <a href="https://github.com/dabblew/BadUSB-Scripts">BadUSB</a></li>
@@ -32,7 +31,7 @@
 
   <!-- NÍVEL 1: FERRAMENTAS -->
   <details style="margin-left: 20px;">
-    <summary>[3] Ferramentas (Exploration & Recon)</summary>
+    <summary>[3] <b>Toolbox_</b>(Scripts Modificados/Estudados)</summary>
     <ul style="list-style-type: none; margin-left: 20px; padding-left: 0;">
       <li><code>>_</code> <a href="https://github.com/dabblew/LPE-Portable">LPE Portable</a></li>
       <li><code>>_</code> <a href="https://github.com/dabblew/Wifite-Automation">Wifite Suite</a></li>
@@ -42,19 +41,11 @@
 
   <!-- NÍVEL 1: EXPLOITS -->
   <details style="margin-left: 20px;">
-    <summary>[4] Exploits & PoCs</summary>
+    <summary>[4] <b>Study_Roadmap_</b>(O que estou aprendendo hoje)</summary>
     <ul style="list-style-type: none; margin-left: 20px; padding-left: 0;">
-      <li><code>>_</code> <i>[ VAGO: Aguardando novos payloads... ]</i></li>
-      <li><code>>_</code> <i>[ VAGO: Aguardando novas CVEs... ]</i></li>
+      <li><code>>_</code> <i>[ Aguardando novos payloads... ]</i></li>
+      <li><code>>_</code> <i>[ Aguardando novas CVEs... ]</i></li>
     </ul>
-  </details>
-
-  <!-- NÍVEL 1: CONTATO -->
-  <details style="margin-left: 20px;">
-    <summary>[5] Contato</summary>
-    <p style="margin-left: 20px;">
-      <sub>→ <a href="#-05-terminal-de-conexão-cta">Ir para Diretório /Uplink_Terminal</a></sub>
-    </p>
   </details>
 
 </details>
@@ -64,7 +55,38 @@
 <!--- --->
 </tr></table>
 
+---
+## 📡 02. CORE STATS & OPERATIONAL ARSENAL
 
+<table width="100%" border="1" cellspacing="0" cellpadding="10">
+  <tr>
+    <td width="45%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=dabblew&show_icons=true&theme=tokyonight&color_title=ff6b00&color_text=ff6b00&color_icon=ff6b00&bg_color=000000&hide_border=false" alt="DabbleW GitHub Stats" width="100%">
+    </td>
+    <td width="55%" valign="top">
+      <samp align="center"><b>[ >_ SOFTWARE DEVELOPMENT & LOW-LEVEL ]</b></samp><br>
+      <div align="left" style="margin-top: 5px; margin-bottom: 12px;">
+        <img src="https://img.shields.io/badge/Python-🐍_Automação-ff6b00?style=for-the-badge&logo=python&logoColor=black" />
+        <img src="https://img.shields.io/badge/C%2F%2B%2B-💻_Firmware-ff6b00?style=for-the-badge&logo=c%2B%2B&logoColor=black" />
+        <img src="https://img.shields.io/badge/Go-🐹_Ferramentas-ff6b00?style=for-the-badge&logo=go&logoColor=black" />
+        <img src="https://img.shields.io/badge/Assembly-⚙️_RevEng-ff6b00?style=for-the-badge&logo=assemblyscript&logoColor=black" />
+      </div>
+      <samp><b>[ 📟 HARDWARE ENGINEERING & ENV ]</b></samp><br>
+      <div align="left" style="margin-top: 5px; margin-bottom: 12px;">
+        <img src="https://img.shields.io/badge/Linux-📂_Ambiente-ff6b00?style=for-the-badge&logo=linux&logoColor=black" />
+        <img src="https://img.shields.io/badge/ESP32-📡_RF_&_Micro-ff6b00?style=for-the-badge&logo=espressif&logoColor=black" />
+      </div>
+      <samp><b>[ 🔍 RECON & EXPLORATION TOOLS ]</b></samp><br>
+      <div align="left" style="margin-top: 5px;">
+        <img src="https://img.shields.io/badge/Nmap-🔍_Varredura-ff6b00?style=for-the-badge&logo=nmap&logoColor=black" />
+        <img src="https://img.shields.io/badge/Metasploit-💀_Exploits-ff6b00?style=for-the-badge&logo=metasploit&logoColor=black" />
+        <img src="https://img.shields.io/badge/Wireshark-🦈_Tráfego-ff6b00?style=for-the-badge&logo=wireshark&logoColor=black" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
 ---
 
 <table width="100%" border="1" cellspacing="0" cellpadding="10">
@@ -74,7 +96,7 @@
     </td>
     <td width="75%" valign="top">
       <samp>
-        <b>[!] THREAT LEVEL:</b> Script Kiddie ascending to Tool Developer.<br>
+        <b>[!] STATUS:</b> Security Tool Developer & Hardware Dabbler.<br>
         <b>[+] OBJECTIVE:</b> Developing automated exploitation mechanics and defensive hardening.<br>
         <b>[+] CURRENT FOCUS:</b> Network auditing, hardware hacking deployment, and script architecture.
       </samp>
@@ -86,22 +108,7 @@
 
 ---
 
-## 📡 02. CORE ARMAMENTÁRIO & STATS
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Environment-Linux_📂-ff6b00?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Core-Python_🐍-ff6b00?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tool-Nmap_🔍-ff6b00?style=for-the-badge&logo=nmap&logoColor=black" />
-  <img src="https://img.shields.io/badge/Framework-Metasploit_💀-ff6b00?style=for-the-badge&logo=metasploit&logoColor=black" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dabblew&show_icons=true&theme=tokyonight&color_title=ff6b00&color_text=ff6b00&color_icon=ff6b00&bg_color=000000&hide_border=false" alt="DabbleW GitHub Stats">
-</div>
-
----
 
 ---
 
